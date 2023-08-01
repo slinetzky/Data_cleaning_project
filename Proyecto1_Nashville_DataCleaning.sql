@@ -1,3 +1,12 @@
+/*
+
+
+Data Cleaning Project in PostgreSQL
+
+
+*/
+
+
 ---Correct 'SaleDate' format to DATE
 
 ALTER TABLE Public."Nashville_Housing"
